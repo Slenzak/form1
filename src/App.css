@@ -1,0 +1,35 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+div {
+  margin-bottom: 1rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+input, select, button {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  border-radius: 10px;
+}
+
+p {
+  color: red;
+  font-size: 0.875rem;
+}
+h1{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: 400px;
+}
+body{
+  background-color: aqua;
+}
